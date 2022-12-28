@@ -1,4 +1,4 @@
-# Proyect Veterinaria APP
+# Proyect Veterinaria APP (Java)
 
 Parte escrita proyecto informática.
 
