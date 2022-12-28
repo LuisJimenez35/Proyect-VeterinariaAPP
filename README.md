@@ -1,21 +1,18 @@
-# VeterinariaApp
+# Proyect Veterinaria APP
 
 Parte escrita proyecto informática.
 
-Integrantes: Luis, Alejandro, Bryan.
-Profesor: Ronald Steven Arias Fallas.
 Fecha de entrega o semana: semana 15.
 
 Semana 1-2-3-4.
-En estas semanas nos reunimos y nos pusimos de acuerdo con que íbamos a hacer para el proyecto, que llegamos  la idea final de hacer una veterinaria con sus respectivos medicamentos , alimentos y juguetes 
+En estas semanas me reuni y me  puse con que íba a hacer para el proyecto, llegue a la idea final de hacer una veterinaria con sus respectivos medicamentos , alimentos y juguetes 
 
 Semana 5.
 El proyecto se empezó a elaborar en semana 5 
-Dividimos las partes para cada integrante del grupo.
+Dividi las partes por estapa.
 
 Semana 6-7.
-Cada integrante trabajo en su parte correspondiente
-Del proyecto para terminarlo adecuadamente.
+Se trabajo en cada parte del proyecto para terminarlo adecuadamente.
 
 Semana 8-9
 Se trabajo en la parte de agregar productos a las listas.
@@ -24,10 +21,10 @@ Semana 10-11.
 Se trabajo en el carrito de compras haciendo ejercicios de pasar objetos de una tabla a otra.
 
 Semana 12-13.
-Se trabajo en el carrito de compras terminándolo para que quedara funcional para nuestro proyecto.
+Se trabajo en el carrito de compras terminándolo para que quedara funcional para el proyecto.
 
 Semana 13-14.
-En semana 13-14 se trabajó en agregar el código para los correos electrónicos a nuestro proyecto. 
+En semana 13-14 se trabajó en agregar el código para los correos electrónicos al proyecto. 
 
 
 Semana 14.
