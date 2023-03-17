@@ -1,38 +1,35 @@
-# Proyect Veterinaria APP (Java)
+#Project: Veterinary APP (Java)
 
-Parte escrita proyecto informática.
+Written part of the project.
 
-Fecha de entrega o semana: semana 15.
+Delivery date or week: Week 15.
 
-Semana 1-2-3-4.
-En estas semanas me reuni y me  puse con que íba a hacer para el proyecto, llegue a la idea final de hacer una veterinaria con sus respectivos medicamentos , alimentos y juguetes 
+Weeks 1-2-3-4.
+During these weeks, I met and brainstormed what I was going to do for the project. I arrived at the final idea of creating a veterinary app with its respective medications, food, and toys.
 
-Semana 5.
-El proyecto se empezó a elaborar en semana 5 
-Dividi las partes por estapa.
+Week 5.
+The project started to be developed in week 5. I divided the parts by stage.
 
-Semana 6-7.
-Se trabajo en cada parte del proyecto para terminarlo adecuadamente.
+Week 6-7.
+I worked on each part of the project to finish it properly.
 
-Semana 8-9
-Se trabajo en la parte de agregar productos a las listas.
+Week 8-9.
+I worked on adding products to the lists.
 
-Semana 10-11.
-Se trabajo en el carrito de compras haciendo ejercicios de pasar objetos de una tabla a otra.
+Week 10-11.
+I worked on the shopping cart by practicing passing objects from one table to another.
 
-Semana 12-13.
-Se trabajo en el carrito de compras terminándolo para que quedara funcional para el proyecto.
+Week 12-13.
+I worked on completing the shopping cart to make it functional for the project.
 
-Semana 13-14.
-En semana 13-14 se trabajó en agregar el código para los correos electrónicos al proyecto. 
+Week 13-14.
+In weeks 13-14, I worked on adding email code to the project.
 
+Week 14.
+In week 14, I finished the project and worked on some details.
 
-Semana 14.
-En semana 14 se terminó con la elaboración del proyecto y se trabajó en algunos detalles.
+Week 15.
+In week 15, the project will be presented in the face-to-face class, which is the last class of the semester.
 
-Semana 15.
-En semana 15 se tiene que exponer el proyecto en la clase presencial que es la última clase  del cuatrimestre.
-
-De que trata el proyecto.
-El proyecto se trata de una veterinaria donde podemos encontrar diferentes tipos de medicamentos y accesorios para los animales, como juguetes alimentos entre otros 
-Cuenta con una atención por citas y registro de animales y dueños mediante cedula número de teléfono etc.
+What the project is about.
+The project is about a veterinary app where we can find different types of medications and accessories for animals, such as toys, food, among others. It includes appointment scheduling and registration of animals and owners using identification, phone numbers, etc.
