@@ -33,3 +33,5 @@ In week 15, the project will be presented in the face-to-face class, which is th
 
 What the project is about.
 The project is about a veterinary app where we can find different types of medications and accessories for animals, such as toys, food, among others. It includes appointment scheduling and registration of animals and owners using identification, phone numbers, etc.
+![image](https://user-images.githubusercontent.com/82769778/225778430-91ee9a5f-cd01-4741-9624-bb09e85b5478.png)
+
